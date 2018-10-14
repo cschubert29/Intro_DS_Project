@@ -1,0 +1,80 @@
+"Estimated arrests of persons under age 18  in Pennsylvania"
+
+,"2008","2009","2010","2011","2012","2013","2014",
+"Coverage Indicator","98%","99%","99%","99%","100%","100%","100%",
+"Total Arrests","105,409","91,960","85,023","73,990","70,191","65,489","62,170",
+
+"Violent Crime Index","5,389","4,614","4,600","4,361","3,796","n/a","n/a",
+
+"Murder/nonneg. mans.","55","36","44","28","29","21","15",
+
+"Rape","212","208","173","181","156","n/a","n/a",
+
+"Robbery","2,047","1,710","1,730","1,599","1,381","1,232","1,183",
+
+"Aggravated assault","3,075","2,660","2,653","2,553","2,230","2,106","1,793",
+
+"Property Crime Index","14,180","12,568","11,291","10,833","9,663","8,534","7,475",
+
+"Burglary","2,361","1,908","1,738","1,618","1,525","1,325","1,114",
+
+"Larceny-theft","10,658","9,700","8,677","8,488","7,437","6,648","5,793",
+
+"Motor vehicle theft","856","668","634","551","450","396","407",
+
+"Arson","305","292","242","176","251","165","161",
+
+"Nonindex"
+"Other assaults","8,946","7,597","8,003","7,058","6,273","6,134","5,517",
+
+"Forgery and counterfeiting","93","68","76","66","60","57","69",
+
+"Fraud","351","260","219","195","184","176","159",
+
+"Embezzlement","48","19","40","30","30","27","17",
+
+"Stolen property","644","565","504","507","366","313","334",
+
+"Vandalism","4,818","4,044","3,300","2,968","2,694","2,378","2,018",
+
+"Weapons","1,513","1,309","1,272","1,292","1,121","1,207","1,090",
+
+"Prostitution/<br>commercialized vice","11","9","8","15","13","24","12",
+
+"Sex offenses (other)","573","623","594","570","561","n/a","n/a",
+
+"Drug abuse violations","6,222","5,424","5,355","4,961","4,867","4,309","4,129",
+
+"Gambling","27","7","4","7","3","7","2",
+
+"Offenses against family","52","35","38","55","44","39","40",
+
+"Driving under influence","577","511","482","442","483","399","314",
+
+"Liquor laws","7,596","6,084","5,977","5,339","5,129","3,905","3,389",
+
+"Drunkenness","391","354","317","320","317","251","242",
+
+"Disorderly conduct","18,284","16,404","15,368","13,297","10,973","10,354","8,774",
+
+"Vagrancy","134","183","131","99","50","52","52",
+
+"All other offenses","8,234","6,924","6,496","6,087","5,135","4,706","5,807",
+
+"Curfew and loitering","25,214","22,411","19,251","13,881","17,004","17,263","15,422",
+
+"Runaways","2,112","1,947","1,697","1,607","1,425","1,214","3,639",
+"Population Ages 10 to 17","1,324,500","1,315,400","1,305,600","1,289,400","1,270,700","1,271,700","1,273,100",
+
+"n/a: Beginning in 2013, the FBI broadened the definition of rape, removing the phrase 'forcible' from the offense name and description. The new definition of rape is: Penetration, no matter how slight, of the vagina or anus with any body part of object, or oral penetration by a sex organ or another person, without the consent of the victim. The new definition includes the NIBRS offenses of rape, sodomy, and sexual assault with an object."
+
+"Law enforcement agencies may submit data on rape arrests based on either the new or legacy definition of rape. Due to differences in agency reporting practices, estimates for the offenses of 'rape' and 'sex offenses' are not available after 2012. Additionally, estimates for the Violent Crime Index (which included 'forcible rape') are not shown after 2012 as this category is no longer compatible with prior years."
+
+"These statistics are estimates that account for missing data and may differ from other published sources.  The county-level files which are the source of this information are not official FBI releases and are being provided for research purposes."
+
+"The Coverage Indicator refers to the relative size of the sample from which these estimates are based.  A coverage indicator of 90% means that data covering 10% of the jurisdiction's population are estimated and that data from 90% of the jurisdiction's population are based on actual reports."
+
+"Only jurisdictions with a coverage indicator at or above 90% are displayed in this application. Click on the Data Coverage tab to find out what years are available for your jurisdiction of interest."
+
+"Suggested Citation: Puzzanchera, C. and Kang, W. (2017). Easy Access to FBI Arrest Statistics 1994-2014 Online. Available: http://www.ojjdp.gov/ojstatbb/ezaucr/"
+

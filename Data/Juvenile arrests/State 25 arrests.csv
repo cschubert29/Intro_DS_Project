@@ -1,0 +1,80 @@
+"Estimated arrests of persons under age 18  in Massachusetts"
+
+,"2008","2009","2010","2011","2012","2013","2014",
+"Coverage Indicator","98%","98%","98%","96%","96%","98%","96%",
+"Total Arrests","20,793","17,276","15,549","13,628","12,199","9,650","9,186",
+
+"Violent Crime Index","2,183","1,871","1,633","1,425","1,117","n/a","n/a",
+
+"Murder/nonneg. mans.","8","3","7","6","2","3","1",
+
+"Rape","37","31","36","32","14","n/a","n/a",
+
+"Robbery","560","498","328","328","240","249","275",
+
+"Aggravated assault","1,578","1,339","1,262","1,059","861","781","768",
+
+"Property Crime Index","4,019","3,648","2,918","2,563","1,977","1,837","1,607",
+
+"Burglary","928","748","645","581","471","430","372",
+
+"Larceny-theft","2,880","2,741","2,063","1,838","1,373","1,299","1,091",
+
+"Motor vehicle theft","149","118","137","109","79","68","107",
+
+"Arson","62","41","73","35","54","40","37",
+
+"Nonindex"
+"Other assaults","2,886","2,672","2,504","2,490","2,228","1,932","1,886",
+
+"Forgery and counterfeiting","24","14","15","16","6","16","11",
+
+"Fraud","62","59","32","28","29","24","24",
+
+"Embezzlement","6","0","5","4","2","1","5",
+
+"Stolen property","264","273","237","206","190","166","141",
+
+"Vandalism","1,065","887","801","671","653","471","526",
+
+"Weapons","289","245","222","210","175","164","166",
+
+"Prostitution/<br>commercialized vice","7","5","4","3","5","1","2",
+
+"Sex offenses (other)","111","90","96","62","79","n/a","n/a",
+
+"Drug abuse violations","2,381","722","684","534","551","398","324",
+
+"Gambling","0","0","2","2","0","0","1",
+
+"Offenses against family","123","162","169","158","132","63","26",
+
+"Driving under influence","116","92","85","74","90","59","57",
+
+"Liquor laws","947","1,006","1,059","844","1,023","665","577",
+
+"Drunkenness","378","292","284","196","272","220","177",
+
+"Disorderly conduct","1,478","1,380","1,129","1,016","833","727","621",
+
+"Vagrancy","0","0","0","0","0","1","0",
+
+"All other offenses","4,129","3,586","3,395","2,892","2,692","1,796","1,899",
+
+"Curfew and loitering","13","10","4","8","2","0","0",
+
+"Runaways","312","262","271","226","143","5","18",
+"Population Ages 10 to 17","679,500","677,300","664,500","657,600","653,100","657,700","662,800",
+
+"n/a: Beginning in 2013, the FBI broadened the definition of rape, removing the phrase 'forcible' from the offense name and description. The new definition of rape is: Penetration, no matter how slight, of the vagina or anus with any body part of object, or oral penetration by a sex organ or another person, without the consent of the victim. The new definition includes the NIBRS offenses of rape, sodomy, and sexual assault with an object."
+
+"Law enforcement agencies may submit data on rape arrests based on either the new or legacy definition of rape. Due to differences in agency reporting practices, estimates for the offenses of 'rape' and 'sex offenses' are not available after 2012. Additionally, estimates for the Violent Crime Index (which included 'forcible rape') are not shown after 2012 as this category is no longer compatible with prior years."
+
+"These statistics are estimates that account for missing data and may differ from other published sources.  The county-level files which are the source of this information are not official FBI releases and are being provided for research purposes."
+
+"The Coverage Indicator refers to the relative size of the sample from which these estimates are based.  A coverage indicator of 90% means that data covering 10% of the jurisdiction's population are estimated and that data from 90% of the jurisdiction's population are based on actual reports."
+
+"Only jurisdictions with a coverage indicator at or above 90% are displayed in this application. Click on the Data Coverage tab to find out what years are available for your jurisdiction of interest."
+
+"Suggested Citation: Puzzanchera, C. and Kang, W. (2017). Easy Access to FBI Arrest Statistics 1994-2014 Online. Available: http://www.ojjdp.gov/ojstatbb/ezaucr/"
+

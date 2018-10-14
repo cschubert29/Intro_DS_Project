@@ -1,0 +1,80 @@
+"Estimated arrests of persons under age 18  in Oregon"
+
+,"2008","2009","2010","2011","2012","2013","2014",
+"Coverage Indicator","97%","99%","98%","98%","98%","92%","88%",
+"Total Arrests","29,837","27,141","26,155","23,378","19,452","16,077","see notes",
+
+"Violent Crime Index","740","589","594","473","487","n/a","n/a",
+
+"Murder/nonneg. mans.","13","5","6","2","4","4"," ",
+
+"Rape","39","21","22","22","25","n/a","n/a",
+
+"Robbery","217","188","175","119","163","126"," ",
+
+"Aggravated assault","471","375","391","330","295","229"," ",
+
+"Property Crime Index","7,327","6,608","6,391","5,373","4,713","3,802"," ",
+
+"Burglary","844","683","651","528","551","358"," ",
+
+"Larceny-theft","6,021","5,566","5,378","4,552","3,880","3,222"," ",
+
+"Motor vehicle theft","272","204","198","168","148","124"," ",
+
+"Arson","190","155","164","125","134","98"," ",
+
+"Nonindex"
+"Other assaults","2,264","1,925","1,942","1,829","1,682","1,317"," ",
+
+"Forgery and counterfeiting","25","21","18","16","16","9"," ",
+
+"Fraud","107","93","99","80","68","76"," ",
+
+"Embezzlement","7","1","2","1","1","0"," ",
+
+"Stolen property","70","54","70","59","69","48"," ",
+
+"Vandalism","2,205","1,841","1,690","1,480","1,168","974"," ",
+
+"Weapons","336","228","219","218","173","157"," ",
+
+"Prostitution/<br>commercialized vice","23","26","6","6","3","1"," ",
+
+"Sex offenses (other)","188","194","168","152","117","n/a","n/a",
+
+"Drug abuse violations","2,379","2,421","2,870","3,265","2,805","2,357"," ",
+
+"Gambling","1","0","0","0","0","0"," ",
+
+"Offenses against family","10","16","9","5","5","10"," ",
+
+"Driving under influence","167","112","132","90","87","69"," ",
+
+"Liquor laws","4,667","3,914","3,451","2,821","2,237","1,822"," ",
+
+"Drunkenness","0","0","0","0","0","0"," ",
+
+"Disorderly conduct","1,529","1,645","1,615","1,420","1,161","873"," ",
+
+"Vagrancy","0","0","0","0","0","0"," ",
+
+"All other offenses","3,671","3,666","3,388","3,477","1,950","1,686"," ",
+
+"Curfew and loitering","2,039","1,984","1,734","876","1,178","1,038"," ",
+
+"Runaways","2,082","1,803","1,757","1,737","1,532","1,315"," ",
+"Population Ages 10 to 17","397,300","394,300","390,600","390,800","389,100","392,100","396,100",
+
+"n/a: Beginning in 2013, the FBI broadened the definition of rape, removing the phrase 'forcible' from the offense name and description. The new definition of rape is: Penetration, no matter how slight, of the vagina or anus with any body part of object, or oral penetration by a sex organ or another person, without the consent of the victim. The new definition includes the NIBRS offenses of rape, sodomy, and sexual assault with an object."
+
+"Law enforcement agencies may submit data on rape arrests based on either the new or legacy definition of rape. Due to differences in agency reporting practices, estimates for the offenses of 'rape' and 'sex offenses' are not available after 2012. Additionally, estimates for the Violent Crime Index (which included 'forcible rape') are not shown after 2012 as this category is no longer compatible with prior years."
+
+"These statistics are estimates that account for missing data and may differ from other published sources.  The county-level files which are the source of this information are not official FBI releases and are being provided for research purposes."
+
+"The Coverage Indicator refers to the relative size of the sample from which these estimates are based.  A coverage indicator of 90% means that data covering 10% of the jurisdiction's population are estimated and that data from 90% of the jurisdiction's population are based on actual reports."
+
+"Only jurisdictions with a coverage indicator at or above 90% are displayed in this application. Click on the Data Coverage tab to find out what years are available for your jurisdiction of interest."
+
+"Suggested Citation: Puzzanchera, C. and Kang, W. (2017). Easy Access to FBI Arrest Statistics 1994-2014 Online. Available: http://www.ojjdp.gov/ojstatbb/ezaucr/"
+
