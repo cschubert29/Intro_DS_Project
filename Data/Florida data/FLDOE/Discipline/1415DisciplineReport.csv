@@ -1,0 +1,473 @@
+﻿Student Discipline Data by Race and Gender,,,,,,,,,,,,
+"School Year 2014-15, Survey 5 Final Data",,,,,,,,,,,,
+"*To provide meaningful results and to protect the privacy of individual students, data are displayed only when the total number of students in a group is at least 10 and when the performance of individuals would not be disclosed. Data for groups less than 10 are displayed with an asterisk (*).",,,,,,,,,,,,
+Note:  Totals are unduplicated and students are counted only once for each type of action.,,,,,,,,,,,,
+District,District Name,Discipline Description,White,Black or African American,Hispanic/Latino,Asian,Native Hawaiian or Other Pacific Islander,American Indian or Alaska Native,Two or More Races,Female,Male,Total
+00,FLORIDA,Corporal Punishment,"1,088",389,126,3,0,1,60,260,"1,407","1,667"
+00,FLORIDA,Expelled Without Continuing Educational Services,122,145,70,3,0,4,21,85,280,365
+00,FLORIDA,Expelled With Continuing Educational Services,131,131,39,0,0,2,21,96,228,324
+00,FLORIDA,Suspension Extended Pending Hearing,145,155,79,1,0,0,14,109,285,394
+00,FLORIDA,Suspension In-School,"64,145","74,505","52,936","1,433",206,665,"6,903","68,749","132,044","200,793"
+00,FLORIDA,Seclusion,144,127,48,3,0,0,16,79,259,338
+00,FLORIDA,Mechanical Restraint,105,26,5,0,0,1,2,45,94,139
+00,FLORIDA,Suspension Out-of-School,"48,686","70,423","38,533",822,142,527,"5,860","49,662","115,331","164,993"
+00,FLORIDA,Placement in Alternative Educational Setting,"2,067","2,843","1,371",40,6,21,255,"1,913","4,690","6,603"
+00,FLORIDA,Physical Restraint,324,205,111,1,0,1,38,126,554,680
+00,FLORIDA,Other SES IR Defined,"2,727","6,753","2,139",71,12,30,349,"3,321","8,760","12,081"
+00,FLORIDA,Change In Placement,47,103,41,0,1,0,9,28,173,201
+01,ALACHUA,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+01,ALACHUA,Suspension Out-of-School,377,"1,392",87,7,1,1,107,624,"1,348","1,972"
+01,ALACHUA,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+02,BAKER,Corporal Punishment,*,*,*,*,*,*,*,*,*,*
+02,BAKER,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+02,BAKER,Suspension In-School,517,120,9,0,0,4,15,248,417,665
+02,BAKER,Suspension Out-of-School,251,94,4,0,0,2,12,121,242,363
+02,BAKER,Placement in Alternative Educational Setting,36,15,2,0,0,0,3,18,38,56
+02,BAKER,Other SES IR Defined,32,6,1,0,0,0,1,9,31,40
+03,BAY,Corporal Punishment,*,*,*,*,*,*,*,*,*,*
+03,BAY,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+03,BAY,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+03,BAY,Suspension Extended Pending Hearing,10,7,1,0,0,0,0,4,14,18
+03,BAY,Suspension In-School,"1,691",873,180,25,1,6,207,"1,008","1,975","2,983"
+03,BAY,Seclusion,26,23,6,0,0,0,5,31,29,60
+03,BAY,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+03,BAY,Suspension Out-of-School,"1,282",782,114,19,1,7,169,660,"1,714","2,374"
+03,BAY,Placement in Alternative Educational Setting,49,21,1,0,0,0,4,23,52,75
+03,BAY,Other SES IR Defined,11,2,1,0,0,0,3,2,15,17
+03,BAY,Change In Placement,*,*,*,*,*,*,*,*,*,*
+04,BRADFORD,Corporal Punishment,*,*,*,*,*,*,*,*,*,*
+04,BRADFORD,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+04,BRADFORD,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+04,BRADFORD,Suspension In-School,223,130,9,1,0,0,7,120,250,370
+04,BRADFORD,Suspension Out-of-School,205,117,8,3,2,0,8,100,243,343
+04,BRADFORD,Placement in Alternative Educational Setting,6,4,0,0,0,0,2,2,10,12
+04,BRADFORD,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+05,BREVARD,Expelled Without Continuing Educational Services,18,20,7,1,0,1,8,17,38,55
+05,BREVARD,Expelled With Continuing Educational Services,7,9,3,0,0,0,1,2,18,20
+05,BREVARD,Suspension Extended Pending Hearing,8,8,3,1,0,0,1,7,14,21
+05,BREVARD,Suspension In-School,"1,812","1,314",599,22,2,7,354,"1,397","2,713","4,110"
+05,BREVARD,Seclusion,*,*,*,*,*,*,*,*,*,*
+05,BREVARD,Suspension Out-of-School,"2,583","1,764",753,31,3,15,484,"1,679","3,954","5,633"
+05,BREVARD,Placement in Alternative Educational Setting,159,117,51,5,0,1,23,100,256,356
+05,BREVARD,Physical Restraint,34,17,5,0,0,0,8,16,48,64
+05,BREVARD,Other SES IR Defined,107,98,33,0,1,0,20,79,180,259
+06,BROWARD,Suspension In-School,"2,349","10,768","3,862",149,11,47,445,"5,750","11,881","17,631"
+06,BROWARD,Suspension Out-of-School,448,"2,620",672,30,1,10,91,"1,080","2,792","3,872"
+06,BROWARD,Placement in Alternative Educational Setting,51,218,65,4,0,0,9,75,272,347
+06,BROWARD,Other SES IR Defined,572,"3,331",777,37,4,15,104,"1,525","3,315","4,840"
+07,CALHOUN,Corporal Punishment,32,5,2,0,0,0,2,6,35,41
+07,CALHOUN,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+07,CALHOUN,Suspension In-School,143,44,14,0,0,0,11,78,134,212
+07,CALHOUN,Suspension Out-of-School,15,4,1,0,0,0,4,6,18,24
+07,CALHOUN,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+07,CALHOUN,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+08,CHARLOTTE,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+08,CHARLOTTE,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+08,CHARLOTTE,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+08,CHARLOTTE,Suspension In-School,"1,115",221,207,8,1,10,71,488,"1,145","1,633"
+08,CHARLOTTE,Suspension Out-of-School,731,167,133,4,2,4,60,275,826,"1,101"
+08,CHARLOTTE,Placement in Alternative Educational Setting,63,9,8,0,0,0,5,28,57,85
+08,CHARLOTTE,Other SES IR Defined,27,3,5,0,0,0,1,7,29,36
+08,CHARLOTTE,Change In Placement,17,3,2,0,0,0,2,4,20,24
+09,CITRUS,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+09,CITRUS,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+09,CITRUS,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+09,CITRUS,Suspension In-School,"1,621",155,152,9,4,12,83,698,"1,338","2,036"
+09,CITRUS,Seclusion,*,*,*,*,*,*,*,*,*,*
+09,CITRUS,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+09,CITRUS,Suspension Out-of-School,921,111,77,1,1,3,57,317,854,"1,171"
+09,CITRUS,Placement in Alternative Educational Setting,16,1,1,0,0,0,1,4,15,19
+09,CITRUS,Physical Restraint,8,1,2,0,0,0,0,2,9,11
+10,CLAY,Corporal Punishment,*,*,*,*,*,*,*,*,*,*
+10,CLAY,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+10,CLAY,Expelled With Continuing Educational Services,12,3,3,0,0,0,2,7,13,20
+10,CLAY,Suspension In-School,"1,916",853,352,32,12,6,178,"1,054","2,295","3,349"
+10,CLAY,Seclusion,*,*,*,*,*,*,*,*,*,*
+10,CLAY,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+10,CLAY,Suspension Out-of-School,954,411,144,11,1,5,61,444,"1,143","1,587"
+10,CLAY,Placement in Alternative Educational Setting,100,43,12,1,1,0,11,54,114,168
+10,CLAY,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+11,COLLIER,Suspension In-School,992,789,"1,459",8,3,38,72,933,"2,428","3,361"
+11,COLLIER,Suspension Out-of-School,584,487,823,4,1,28,38,480,"1,485","1,965"
+11,COLLIER,Placement in Alternative Educational Setting,34,37,35,0,0,2,1,23,86,109
+11,COLLIER,Other SES IR Defined,12,11,1,1,0,0,2,3,24,27
+12,COLUMBIA,Corporal Punishment,91,73,3,0,0,0,5,38,134,172
+12,COLUMBIA,Suspension In-School,562,431,34,1,0,5,51,340,744,"1,084"
+12,COLUMBIA,Suspension Out-of-School,453,358,35,2,1,2,49,261,639,900
+13,DADE,Suspension In-School,"1,033","5,092","12,966",57,3,8,47,"6,924","12,282","19,206"
+13,DADE,Suspension Out-of-School,614,"6,940","7,321",39,6,3,66,"4,769","10,220","14,989"
+13,DADE,Other SES IR Defined,32,358,411,2,0,0,4,179,628,807
+14,DESOTO,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+14,DESOTO,Suspension In-School,203,136,153,1,1,2,9,130,375,505
+14,DESOTO,Suspension Out-of-School,141,104,106,1,0,1,12,82,283,365
+14,DESOTO,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+15,DIXIE,Corporal Punishment,23,2,1,0,0,0,1,2,25,27
+15,DIXIE,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+15,DIXIE,Suspension In-School,101,18,3,0,0,1,3,42,84,126
+15,DIXIE,Suspension Out-of-School,110,18,4,0,0,0,6,41,97,138
+16,DUVAL,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+16,DUVAL,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+16,DUVAL,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+16,DUVAL,Suspension In-School,"3,073","9,047","1,051",175,20,26,535,"5,238","8,689","13,927"
+16,DUVAL,Seclusion,8,5,1,0,0,0,0,1,13,14
+16,DUVAL,Suspension Out-of-School,"1,152","5,132",386,62,6,6,259,"2,227","4,776","7,003"
+16,DUVAL,Placement in Alternative Educational Setting,69,619,18,5,1,2,25,265,474,739
+16,DUVAL,Physical Restraint,19,16,3,0,0,0,3,5,36,41
+16,DUVAL,Other SES IR Defined,450,"1,466",93,13,5,0,69,566,"1,530","2,096"
+17,ESCAMBIA,Expelled With Continuing Educational Services,4,15,1,0,0,0,1,4,17,21
+17,ESCAMBIA,Suspension Extended Pending Hearing,2,8,0,0,0,0,0,1,9,10
+17,ESCAMBIA,Suspension In-School,"1,157","2,318",128,32,8,29,188,"1,438","2,422","3,860"
+17,ESCAMBIA,Seclusion,*,*,*,*,*,*,*,*,*,*
+17,ESCAMBIA,Suspension Out-of-School,688,"2,147",92,18,4,17,174,973,"2,167","3,140"
+17,ESCAMBIA,Placement in Alternative Educational Setting,42,75,7,1,0,1,8,30,104,134
+17,ESCAMBIA,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+17,ESCAMBIA,Other SES IR Defined,13,12,1,0,0,0,2,7,21,28
+17,ESCAMBIA,Change In Placement,*,*,*,*,*,*,*,*,*,*
+18,FLAGLER,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+18,FLAGLER,Suspension In-School,464,273,116,6,0,8,52,294,625,919
+18,FLAGLER,Suspension Out-of-School,477,288,133,4,0,8,62,315,657,972
+18,FLAGLER,Placement in Alternative Educational Setting,4,4,1,0,0,0,2,3,8,11
+18,FLAGLER,Other SES IR Defined,31,1,0,0,0,1,1,9,25,34
+19,FRANKLIN,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+19,FRANKLIN,Suspension In-School,221,39,3,0,0,1,4,83,185,268
+19,FRANKLIN,Mechanical Restraint,95,15,1,0,0,1,2,41,73,114
+19,FRANKLIN,Suspension Out-of-School,118,18,1,1,0,0,3,41,100,141
+19,FRANKLIN,Physical Restraint,25,7,0,0,0,0,3,12,23,35
+19,FRANKLIN,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+20,GADSDEN,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+20,GADSDEN,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+20,GADSDEN,Suspension In-School,6,271,22,0,1,0,5,129,176,305
+20,GADSDEN,Seclusion,*,*,*,*,*,*,*,*,*,*
+20,GADSDEN,Suspension Out-of-School,18,851,56,0,0,0,7,349,583,932
+20,GADSDEN,Placement in Alternative Educational Setting,0,28,1,0,0,0,1,15,15,30
+20,GADSDEN,Other SES IR Defined,0,32,2,0,0,0,0,9,25,34
+21,GILCHRIST,Corporal Punishment,59,4,1,0,0,0,1,6,59,65
+21,GILCHRIST,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+21,GILCHRIST,Expelled With Continuing Educational Services,18,0,0,0,0,0,0,7,11,18
+21,GILCHRIST,Suspension In-School,248,30,15,0,0,0,7,77,223,300
+21,GILCHRIST,Suspension Out-of-School,157,27,7,0,0,0,4,53,142,195
+21,GILCHRIST,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+21,GILCHRIST,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+22,GLADES,Corporal Punishment,*,*,*,*,*,*,*,*,*,*
+22,GLADES,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+22,GLADES,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+22,GLADES,Suspension In-School,60,47,51,0,0,30,4,52,140,192
+22,GLADES,Suspension Out-of-School,36,31,17,1,0,8,1,26,68,94
+22,GLADES,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+23,GULF,Corporal Punishment,36,10,3,0,0,0,2,3,48,51
+23,GULF,Suspension In-School,123,43,6,0,0,3,11,82,104,186
+23,GULF,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+23,GULF,Suspension Out-of-School,61,40,2,0,0,0,6,31,78,109
+23,GULF,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+24,HAMILTON,Corporal Punishment,*,*,*,*,*,*,*,*,*,*
+24,HAMILTON,Expelled Without Continuing Educational Services,5,10,2,0,0,0,0,4,13,17
+24,HAMILTON,Suspension In-School,80,133,12,0,0,0,9,80,154,234
+24,HAMILTON,Seclusion,6,12,0,0,0,0,0,5,13,18
+24,HAMILTON,Suspension Out-of-School,38,89,5,0,0,0,3,44,91,135
+24,HAMILTON,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+25,HARDEE,Corporal Punishment,19,6,29,0,0,0,5,3,56,59
+25,HARDEE,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+25,HARDEE,Suspension In-School,19,2,6,0,0,0,0,0,27,27
+25,HARDEE,Suspension Out-of-School,94,27,165,1,0,1,8,87,209,296
+25,HARDEE,Placement in Alternative Educational Setting,110,33,202,1,0,1,3,83,267,350
+25,HARDEE,Physical Restraint,17,7,16,0,0,0,1,13,28,41
+26,HENDRY,Corporal Punishment,15,15,20,0,0,0,1,12,39,51
+26,HENDRY,Suspension In-School,135,224,384,0,0,5,5,239,514,753
+26,HENDRY,Seclusion,*,*,*,*,*,*,*,*,*,*
+26,HENDRY,Suspension Out-of-School,166,234,394,2,0,2,7,237,568,805
+26,HENDRY,Placement in Alternative Educational Setting,6,10,29,0,0,0,0,9,36,45
+27,HERNANDO,Expelled Without Continuing Educational Services,11,4,1,0,0,0,1,4,13,17
+27,HERNANDO,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+27,HERNANDO,Suspension In-School,"1,879",412,531,16,4,7,107,930,"2,026","2,956"
+27,HERNANDO,Suspension Out-of-School,994,246,272,7,2,6,56,447,"1,136","1,583"
+27,HERNANDO,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+27,HERNANDO,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+27,HERNANDO,Other SES IR Defined,232,48,54,1,0,1,12,119,229,348
+28,HIGHLANDS,Corporal Punishment,11,12,6,1,0,0,3,6,27,33
+28,HIGHLANDS,Expelled Without Continuing Educational Services,4,6,6,0,0,0,1,5,12,17
+28,HIGHLANDS,Suspension In-School,858,679,619,12,0,3,85,763,"1,493","2,256"
+28,HIGHLANDS,Seclusion,*,*,*,*,*,*,*,*,*,*
+28,HIGHLANDS,Suspension Out-of-School,295,321,217,0,0,2,31,237,629,866
+28,HIGHLANDS,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+28,HIGHLANDS,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+29,HILLSBOROUGH,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+29,HILLSBOROUGH,Suspension In-School,"4,629","7,440","6,806",162,31,55,765,"7,404","12,484","19,888"
+29,HILLSBOROUGH,Seclusion,3,9,1,0,0,0,1,3,11,14
+29,HILLSBOROUGH,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+29,HILLSBOROUGH,Suspension Out-of-School,"2,619","6,410","4,285",74,21,32,494,"4,620","9,315","13,935"
+29,HILLSBOROUGH,Placement in Alternative Educational Setting,14,70,27,1,0,0,4,23,93,116
+29,HILLSBOROUGH,Physical Restraint,5,8,0,0,0,0,0,1,12,13
+29,HILLSBOROUGH,Change In Placement,13,70,23,0,0,0,7,17,96,113
+30,HOLMES,Corporal Punishment,192,10,8,0,0,0,8,16,202,218
+30,HOLMES,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+30,HOLMES,Suspension In-School,145,15,10,0,0,1,5,60,116,176
+30,HOLMES,Suspension Out-of-School,109,14,4,0,0,1,7,38,97,135
+30,HOLMES,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+30,HOLMES,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+30,HOLMES,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+31,INDIAN RIVER,Suspension In-School,501,457,225,8,0,6,58,431,824,"1,255"
+31,INDIAN RIVER,Suspension Out-of-School,436,519,160,2,0,1,66,294,890,"1,184"
+31,INDIAN RIVER,Placement in Alternative Educational Setting,5,12,3,0,0,0,3,5,18,23
+31,INDIAN RIVER,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+32,JACKSON,Corporal Punishment,57,99,2,1,0,1,5,34,131,165
+32,JACKSON,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+32,JACKSON,Suspension In-School,24,41,1,0,0,0,2,14,54,68
+32,JACKSON,Seclusion,*,*,*,*,*,*,*,*,*,*
+32,JACKSON,Suspension Out-of-School,81,136,4,1,0,0,21,58,185,243
+32,JACKSON,Placement in Alternative Educational Setting,231,256,14,2,0,3,24,184,346,530
+32,JACKSON,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+32,JACKSON,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+33,JEFFERSON,Suspension In-School,0,33,0,0,0,0,0,13,20,33
+33,JEFFERSON,Suspension Out-of-School,20,158,7,0,0,1,1,63,124,187
+34,LAFAYETTE,Corporal Punishment,35,2,6,0,0,0,1,4,40,44
+34,LAFAYETTE,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+34,LAFAYETTE,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+34,LAFAYETTE,Suspension In-School,25,5,5,0,0,0,5,4,36,40
+34,LAFAYETTE,Suspension Out-of-School,32,21,7,0,0,0,2,24,38,62
+34,LAFAYETTE,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+35,LAKE,Corporal Punishment,*,*,*,*,*,*,*,*,*,*
+35,LAKE,Expelled Without Continuing Educational Services,5,2,3,0,0,0,1,0,11,11
+35,LAKE,Expelled With Continuing Educational Services,6,9,0,0,0,0,1,7,9,16
+35,LAKE,Suspension Extended Pending Hearing,44,36,20,0,0,0,5,31,74,105
+35,LAKE,Suspension In-School,675,564,405,27,5,7,99,570,"1,212","1,782"
+35,LAKE,Seclusion,7,4,1,0,0,0,1,3,10,13
+35,LAKE,Suspension Out-of-School,"1,583","1,247",670,36,2,12,162,"1,060","2,652","3,712"
+35,LAKE,Placement in Alternative Educational Setting,25,16,9,0,0,0,2,17,35,52
+35,LAKE,Physical Restraint,15,7,3,0,0,0,3,8,20,28
+36,LEE,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+36,LEE,Suspension In-School,"2,832","2,316","2,710",40,7,16,251,"2,802","5,370","8,172"
+36,LEE,Seclusion,*,*,*,*,*,*,*,*,*,*
+36,LEE,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+36,LEE,Suspension Out-of-School,"1,476","1,861","1,567",14,4,9,181,"1,527","3,585","5,112"
+36,LEE,Placement in Alternative Educational Setting,221,286,249,1,0,3,29,257,532,789
+36,LEE,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+36,LEE,Other SES IR Defined,103,90,86,1,0,0,9,60,229,289
+37,LEON,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+37,LEON,Expelled With Continuing Educational Services,2,11,1,0,0,0,0,2,12,14
+37,LEON,Suspension In-School,56,157,12,0,0,0,10,56,179,235
+37,LEON,Seclusion,*,*,*,*,*,*,*,*,*,*
+37,LEON,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+37,LEON,Suspension Out-of-School,470,"1,984",96,7,1,4,65,873,"1,754","2,627"
+37,LEON,Placement in Alternative Educational Setting,6,57,2,0,0,1,1,19,48,67
+38,LEVY,Corporal Punishment,56,14,4,1,0,0,3,11,67,78
+38,LEVY,Expelled Without Continuing Educational Services,6,1,3,0,0,0,0,2,8,10
+38,LEVY,Expelled With Continuing Educational Services,11,0,2,0,0,0,0,4,9,13
+38,LEVY,Suspension In-School,575,222,94,1,0,1,30,285,638,923
+38,LEVY,Suspension Out-of-School,263,119,37,0,0,0,11,109,321,430
+38,LEVY,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+39,LIBERTY,Corporal Punishment,60,15,2,0,0,0,1,13,65,78
+39,LIBERTY,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+39,LIBERTY,Suspension In-School,85,28,4,0,0,2,3,29,93,122
+39,LIBERTY,Seclusion,3,18,1,0,0,0,0,1,21,22
+39,LIBERTY,Suspension Out-of-School,39,12,2,0,0,0,0,9,44,53
+39,LIBERTY,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+39,LIBERTY,Physical Restraint,1,15,0,0,0,0,0,2,14,16
+40,MADISON,Corporal Punishment,*,*,*,*,*,*,*,*,*,*
+40,MADISON,Suspension In-School,103,372,11,0,0,1,6,184,309,493
+40,MADISON,Suspension Out-of-School,47,245,8,0,0,0,4,105,199,304
+40,MADISON,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+41,MANATEE,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+41,MANATEE,Suspension In-School,"2,014","1,606","1,587",35,2,9,156,"2,017","3,392","5,409"
+41,MANATEE,Seclusion,*,*,*,*,*,*,*,*,*,*
+41,MANATEE,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+41,MANATEE,Suspension Out-of-School,"1,600","1,552","1,426",16,3,7,163,"1,528","3,239","4,767"
+41,MANATEE,Placement in Alternative Educational Setting,3,7,5,0,0,0,0,1,14,15
+41,MANATEE,Physical Restraint,4,7,2,0,0,0,0,4,9,13
+42,MARION,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+42,MARION,Expelled With Continuing Educational Services,20,33,10,0,0,0,8,27,44,71
+42,MARION,Suspension In-School,"1,730","1,324",711,9,5,19,199,"1,348","2,649","3,997"
+42,MARION,Seclusion,30,15,16,0,0,0,3,13,51,64
+42,MARION,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+42,MARION,Suspension Out-of-School,"1,937","1,604",756,7,6,18,232,"1,373","3,187","4,560"
+42,MARION,Placement in Alternative Educational Setting,8,15,6,0,0,0,2,9,22,31
+42,MARION,Physical Restraint,60,39,20,0,0,0,8,22,105,127
+43,MARTIN,Suspension In-School,351,146,187,6,0,4,31,240,485,725
+43,MARTIN,Suspension Out-of-School,542,263,297,11,1,2,59,323,852,"1,175"
+43,MARTIN,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+43,MARTIN,Other SES IR Defined,7,1,2,0,0,0,0,6,4,10
+44,MONROE,Corporal Punishment,*,*,*,*,*,*,*,*,*,*
+44,MONROE,Suspension In-School,150,63,190,2,0,1,9,125,290,415
+44,MONROE,Suspension Out-of-School,155,60,131,2,0,0,12,95,265,360
+44,MONROE,Other SES IR Defined,42,18,35,2,0,1,3,26,75,101
+44,MONROE,Change In Placement,*,*,*,*,*,*,*,*,*,*
+45,NASSAU,Corporal Punishment,*,*,*,*,*,*,*,*,*,*
+45,NASSAU,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+45,NASSAU,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+45,NASSAU,Suspension In-School,567,88,24,0,2,2,36,200,519,719
+45,NASSAU,Suspension Out-of-School,395,50,17,1,1,0,25,128,361,489
+45,NASSAU,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+45,NASSAU,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+46,OKALOOSA,Expelled With Continuing Educational Services,6,1,2,0,0,0,2,4,7,11
+46,OKALOOSA,Suspension In-School,"1,542",583,232,28,3,11,185,725,"1,859","2,584"
+46,OKALOOSA,Suspension Out-of-School,380,213,53,7,0,4,56,170,543,713
+46,OKALOOSA,Placement in Alternative Educational Setting,92,41,10,1,0,0,12,45,111,156
+46,OKALOOSA,Other SES IR Defined,279,132,42,2,0,2,33,101,389,490
+47,OKEECHOBEE,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+47,OKEECHOBEE,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+47,OKEECHOBEE,Suspension In-School,346,67,229,3,0,14,31,186,504,690
+47,OKEECHOBEE,Suspension Out-of-School,253,73,166,2,0,10,28,133,399,532
+47,OKEECHOBEE,Placement in Alternative Educational Setting,14,2,12,0,0,2,2,11,21,32
+47,OKEECHOBEE,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+47,OKEECHOBEE,Other SES IR Defined,4,5,2,0,0,0,1,1,11,12
+48,ORANGE,Expelled Without Continuing Educational Services,3,12,9,1,0,0,1,2,24,26
+48,ORANGE,Suspension Extended Pending Hearing,18,32,37,0,0,0,1,21,67,88
+48,ORANGE,Suspension In-School,"2,074","6,241","4,255",140,15,23,281,"4,499","8,530","13,029"
+48,ORANGE,Seclusion,4,5,2,1,0,0,1,1,12,13
+48,ORANGE,Suspension Out-of-School,"1,546","6,516","3,645",77,12,21,231,"3,650","8,398","12,048"
+48,ORANGE,Placement in Alternative Educational Setting,108,344,246,9,3,2,11,186,537,723
+48,ORANGE,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+48,ORANGE,Other SES IR Defined,232,653,379,6,2,4,31,326,981,"1,307"
+48,ORANGE,Change In Placement,3,9,4,0,0,0,0,1,15,16
+49,OSCEOLA,Expelled Without Continuing Educational Services,5,9,15,1,0,0,0,6,24,30
+49,OSCEOLA,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+49,OSCEOLA,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+49,OSCEOLA,Suspension In-School,847,752,"2,841",37,8,23,106,"1,470","3,144","4,614"
+49,OSCEOLA,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+49,OSCEOLA,Suspension Out-of-School,753,826,"2,911",33,3,20,100,"1,274","3,372","4,646"
+49,OSCEOLA,Placement in Alternative Educational Setting,23,38,101,3,0,0,5,46,124,170
+49,OSCEOLA,Physical Restraint,9,4,17,0,0,0,1,4,27,31
+49,OSCEOLA,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+49,OSCEOLA,Change In Placement,*,*,*,*,*,*,*,*,*,*
+50,PALM BEACH,Suspension In-School,"1,850","4,372","2,181",64,10,64,228,"2,800","5,969","8,769"
+50,PALM BEACH,Suspension Out-of-School,"1,734","6,745","2,473",66,9,84,288,"3,308","8,091","11,399"
+50,PALM BEACH,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+50,PALM BEACH,Physical Restraint,9,26,9,0,0,0,0,7,37,44
+50,PALM BEACH,Other SES IR Defined,76,304,83,4,0,2,11,105,375,480
+50,PALM BEACH,Change In Placement,7,14,6,0,1,0,0,6,22,28
+51,PASCO,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+51,PASCO,Suspension In-School,"2,328",420,742,23,3,22,165,"1,157","2,546","3,703"
+51,PASCO,Seclusion,28,6,6,0,0,0,3,4,39,43
+51,PASCO,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+51,PASCO,Suspension Out-of-School,"2,722",616,825,28,4,20,226,"1,259","3,182","4,441"
+51,PASCO,Placement in Alternative Educational Setting,68,21,22,0,0,1,11,29,94,123
+51,PASCO,Physical Restraint,37,8,10,0,0,0,5,7,53,60
+51,PASCO,Other SES IR Defined,75,20,23,0,0,0,6,17,107,124
+51,PASCO,Change In Placement,*,*,*,*,*,*,*,*,*,*
+52,PINELLAS,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+52,PINELLAS,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+52,PINELLAS,Suspension Extended Pending Hearing,26,30,3,0,0,0,1,25,35,60
+52,PINELLAS,Suspension In-School,"4,927","4,240","1,473",149,21,31,468,"4,205","7,104","11,309"
+52,PINELLAS,Seclusion,16,17,9,1,0,0,2,8,37,45
+52,PINELLAS,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+52,PINELLAS,Suspension Out-of-School,"2,465","3,267",790,60,8,14,305,"2,183","4,726","6,909"
+52,PINELLAS,Placement in Alternative Educational Setting,44,45,19,0,0,0,4,31,81,112
+52,PINELLAS,Physical Restraint,18,9,9,1,0,0,2,4,35,39
+52,PINELLAS,Other SES IR Defined,63,8,8,0,0,1,5,19,66,85
+52,PINELLAS,Change In Placement,*,*,*,*,*,*,*,*,*,*
+53,POLK,Expelled Without Continuing Educational Services,4,11,2,0,0,0,1,6,12,18
+53,POLK,Expelled With Continuing Educational Services,5,5,2,0,0,0,2,4,10,14
+53,POLK,Suspension In-School,"1,988","2,312","1,692",27,5,32,224,"2,244","4,036","6,280"
+53,POLK,Suspension Out-of-School,"3,946","4,300","3,038",38,12,72,398,"3,766","8,038","11,804"
+53,POLK,Placement in Alternative Educational Setting,59,64,38,0,0,0,4,50,115,165
+53,POLK,Other SES IR Defined,83,32,30,0,0,1,6,25,127,152
+54,PUTNAM,Corporal Punishment,*,*,*,*,*,*,*,*,*,*
+54,PUTNAM,Expelled Without Continuing Educational Services,2,7,2,0,0,0,1,5,7,12
+54,PUTNAM,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+54,PUTNAM,Suspension In-School,297,270,51,1,0,3,16,194,444,638
+54,PUTNAM,Suspension Out-of-School,556,623,144,1,1,7,52,406,978,"1,384"
+54,PUTNAM,Placement in Alternative Educational Setting,19,12,4,0,0,0,5,10,30,40
+54,PUTNAM,Other SES IR Defined,10,7,3,0,0,1,2,5,18,23
+55,ST. JOHNS,Suspension In-School,"1,204",276,160,14,3,2,43,548,"1,154","1,702"
+55,ST. JOHNS,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+55,ST. JOHNS,Suspension Out-of-School,938,268,107,14,4,1,32,322,"1,042","1,364"
+55,ST. JOHNS,Placement in Alternative Educational Setting,10,2,0,1,0,0,0,0,13,13
+55,ST. JOHNS,Physical Restraint,27,12,3,0,0,0,0,4,38,42
+55,ST. JOHNS,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+56,ST. LUCIE,Expelled Without Continuing Educational Services,0,7,3,0,0,0,0,0,10,10
+56,ST. LUCIE,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+56,ST. LUCIE,Suspension Extended Pending Hearing,1,8,1,0,0,0,0,0,10,10
+56,ST. LUCIE,Suspension In-School,380,751,310,11,1,2,57,496,"1,016","1,512"
+56,ST. LUCIE,Mechanical Restraint,*,*,*,*,*,*,*,*,*,*
+56,ST. LUCIE,Suspension Out-of-School,825,"1,757",589,15,3,8,127,957,"2,367","3,324"
+56,ST. LUCIE,Placement in Alternative Educational Setting,41,91,36,1,0,0,9,42,136,178
+56,ST. LUCIE,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+56,ST. LUCIE,Change In Placement,*,*,*,*,*,*,*,*,*,*
+57,SANTA ROSA,Corporal Punishment,*,*,*,*,*,*,*,*,*,*
+57,SANTA ROSA,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+57,SANTA ROSA,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+57,SANTA ROSA,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+57,SANTA ROSA,Suspension In-School,"1,158",195,82,10,0,9,124,466,"1,112","1,578"
+57,SANTA ROSA,Seclusion,*,*,*,*,*,*,*,*,*,*
+57,SANTA ROSA,Suspension Out-of-School,740,106,37,2,0,8,70,231,732,963
+57,SANTA ROSA,Placement in Alternative Educational Setting,67,7,4,0,0,1,4,18,65,83
+57,SANTA ROSA,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+58,SARASOTA,Expelled Without Continuing Educational Services,8,14,10,0,0,0,2,11,23,34
+58,SARASOTA,Expelled With Continuing Educational Services,2,6,1,0,0,2,1,2,10,12
+58,SARASOTA,Suspension Extended Pending Hearing,9,12,7,0,0,0,1,8,21,29
+58,SARASOTA,Suspension In-School,"1,012",487,348,7,3,4,115,597,"1,379","1,976"
+58,SARASOTA,Suspension Out-of-School,"1,106",582,426,10,2,10,122,573,"1,685","2,258"
+58,SARASOTA,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+58,SARASOTA,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+58,SARASOTA,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+59,SEMINOLE,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+59,SEMINOLE,Expelled With Continuing Educational Services,6,18,8,0,0,0,1,10,23,33
+59,SEMINOLE,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+59,SEMINOLE,Suspension In-School,"1,272","1,207",794,33,4,5,134,"1,063","2,386","3,449"
+59,SEMINOLE,Seclusion,*,*,*,*,*,*,*,*,*,*
+59,SEMINOLE,Suspension Out-of-School,"1,082","1,162",711,23,7,4,125,843,"2,271","3,114"
+59,SEMINOLE,Placement in Alternative Educational Setting,85,83,59,1,1,0,8,78,159,237
+59,SEMINOLE,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+60,SUMTER,Expelled Without Continuing Educational Services,6,6,4,0,0,1,1,6,12,18
+60,SUMTER,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+60,SUMTER,Suspension In-School,794,339,172,8,2,3,51,442,927,"1,369"
+60,SUMTER,Suspension Out-of-School,378,220,51,3,1,6,24,185,498,683
+60,SUMTER,Placement in Alternative Educational Setting,14,4,6,0,0,0,1,8,17,25
+61,SUWANNEE,Corporal Punishment,118,28,18,0,0,0,5,27,142,169
+61,SUWANNEE,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+61,SUWANNEE,Suspension In-School,411,205,91,3,0,2,34,259,487,746
+61,SUWANNEE,Seclusion,*,*,*,*,*,*,*,*,*,*
+61,SUWANNEE,Suspension Out-of-School,207,120,36,2,0,2,18,118,267,385
+61,SUWANNEE,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+61,SUWANNEE,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+61,SUWANNEE,Change In Placement,*,*,*,*,*,*,*,*,*,*
+62,TAYLOR,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+62,TAYLOR,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+62,TAYLOR,Suspension In-School,318,261,12,3,0,4,28,216,410,626
+62,TAYLOR,Suspension Out-of-School,253,177,10,2,0,1,15,155,303,458
+63,UNION,Corporal Punishment,109,32,7,0,0,0,7,49,106,155
+63,UNION,Suspension In-School,163,67,12,1,0,2,17,93,169,262
+63,UNION,Seclusion,*,*,*,*,*,*,*,*,*,*
+63,UNION,Suspension Out-of-School,95,50,6,1,1,1,4,45,113,158
+63,UNION,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+64,VOLUSIA,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+64,VOLUSIA,Suspension In-School,"3,197","1,849","1,324",27,6,18,282,"2,270","4,433","6,703"
+64,VOLUSIA,Suspension Out-of-School,"2,358","1,663","1,043",21,3,13,224,"1,642","3,683","5,325"
+64,VOLUSIA,Placement in Alternative Educational Setting,113,110,61,2,0,1,14,96,205,301
+64,VOLUSIA,Physical Restraint,14,10,5,0,0,0,3,7,25,32
+64,VOLUSIA,Other SES IR Defined,189,100,63,1,0,0,19,112,260,372
+65,WAKULLA,Corporal Punishment,59,15,1,0,0,0,1,11,65,76
+65,WAKULLA,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+65,WAKULLA,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+65,WAKULLA,Suspension In-School,490,97,17,0,0,1,35,205,435,640
+65,WAKULLA,Suspension Out-of-School,228,52,5,0,1,0,22,74,234,308
+65,WAKULLA,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+66,WALTON,Corporal Punishment,*,*,*,*,*,*,*,*,*,*
+66,WALTON,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+66,WALTON,Expelled With Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+66,WALTON,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+66,WALTON,Suspension In-School,457,98,55,1,0,8,50,196,473,669
+66,WALTON,Suspension Out-of-School,330,63,31,0,0,5,32,121,340,461
+66,WALTON,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+66,WALTON,Physical Restraint,*,*,*,*,*,*,*,*,*,*
+66,WALTON,Other SES IR Defined,14,0,2,0,0,0,0,0,16,16
+66,WALTON,Change In Placement,*,*,*,*,*,*,*,*,*,*
+67,WASHINGTON,Corporal Punishment,90,42,8,0,0,0,7,16,131,147
+67,WASHINGTON,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+67,WASHINGTON,Suspension In-School,97,55,2,0,0,0,8,44,118,162
+67,WASHINGTON,Suspension Out-of-School,153,87,6,0,0,0,16,89,173,262
+67,WASHINGTON,Placement in Alternative Educational Setting,*,*,*,*,*,*,*,*,*,*
+68,DEAF/BLIND,Suspension In-School,7,4,7,0,0,0,2,3,17,20
+68,DEAF/BLIND,Suspension Out-of-School,3,4,4,0,0,0,0,2,9,11
+69,WASH SPECIAL,Suspension Extended Pending Hearing,*,*,*,*,*,*,*,*,*,*
+69,WASH SPECIAL,Suspension Out-of-School,*,*,*,*,*,*,*,*,*,*
+69,WASH SPECIAL,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+72,FAU LAB SCH,Suspension Out-of-School,7,10,9,0,0,0,1,4,23,27
+72,FAU LAB SCH,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+73,FSU LAB SCH,Expelled Without Continuing Educational Services,*,*,*,*,*,*,*,*,*,*
+73,FSU LAB SCH,Suspension In-School,51,63,17,1,0,0,5,57,80,137
+73,FSU LAB SCH,Suspension Out-of-School,15,21,7,0,0,0,1,14,30,44
+73,FSU LAB SCH,Other SES IR Defined,*,*,*,*,*,*,*,*,*,*
+74,FAMU LAB SCH,Suspension In-School,0,91,0,0,0,0,0,42,49,91
+74,FAMU LAB SCH,Suspension Out-of-School,1,78,0,0,0,0,1,35,45,80
+75,UF LAB SCH,Suspension In-School,16,16,1,0,0,0,1,7,27,34
+75,UF LAB SCH,Suspension Out-of-School,7,14,1,0,0,0,3,6,19,25
