@@ -1,0 +1,67 @@
+12 00030 Alachua County School District                                             251417    30790     7847 sd12_FL.txt 15NOV2013 
+12 00060 Baker County School District                                                27086     5087     1203 sd12_FL.txt 15NOV2013 
+12 00090 Bay County School District                                                 171903    26476     6326 sd12_FL.txt 15NOV2013 
+12 00120 Bradford County School District                                             27049     3877     1198 sd12_FL.txt 15NOV2013 
+12 00150 Brevard County School District                                             547307    78356    16380 sd12_FL.txt 15NOV2013 
+12 00180 Broward County School District                                            1815137   287643    56476 sd12_FL.txt 15NOV2013 
+12 00210 Calhoun County School District                                              14723     2251      639 sd12_FL.txt 15NOV2013 
+12 00240 Charlotte County School District                                           162449    16748     3716 sd12_FL.txt 15NOV2013 
+12 00270 Citrus County School District                                              139360    16039     4506 sd12_FL.txt 15NOV2013 
+12 00300 Clay County School District                                                194345    37364     5217 sd12_FL.txt 15NOV2013 
+12 00330 Collier County School District                                             332427    46296    10776 sd12_FL.txt 15NOV2013 
+12 00360 Columbia County School District                                             67966    10774     3292 sd12_FL.txt 15NOV2013 
+12 00390 Dade County School District                                               2591035   392194   112616 sd12_FL.txt 15NOV2013 
+12 00420 DeSoto County School District                                               34712     5641     2276 sd12_FL.txt 15NOV2013 
+12 00450 Dixie County School District                                                16126     2235      815 sd12_FL.txt 15NOV2013 
+12 00480 Duval County School District                                               879602   143363    35645 sd12_FL.txt 15NOV2013 
+12 00510 Escambia County School District                                            302715    45325    11686 sd12_FL.txt 15NOV2013 
+12 00540 Flagler County School District                                              98359    14203     3249 sd12_FL.txt 15NOV2013 
+12 00570 Franklin County School District                                             11686     1385      454 sd12_FL.txt 15NOV2013 
+12 00600 Gadsden County School District                                              46528     7699     2902 sd12_FL.txt 15NOV2013 
+12 00630 Gilchrist County School District                                            16815     2653      711 sd12_FL.txt 15NOV2013 
+12 00660 Glades County School District                                               13107     1774      539 sd12_FL.txt 15NOV2013 
+12 00690 Gulf County School District                                                 15718     1823      501 sd12_FL.txt 15NOV2013 
+12 00720 Hamilton County School District                                             14708     2061      717 sd12_FL.txt 15NOV2013 
+12 00750 Hardee County School District                                               27514     5420     1973 sd12_FL.txt 15NOV2013 
+12 00780 Hendry County School District                                               37447     7597     2908 sd12_FL.txt 15NOV2013 
+12 00810 Hernando County School District                                            173422    25321     6591 sd12_FL.txt 15NOV2013 
+12 00840 Highlands County School District                                            98128    13019     4563 sd12_FL.txt 15NOV2013 
+12 00870 Hillsborough County School District                                       1277746   215831    52911 sd12_FL.txt 15NOV2013 
+12 00900 Holmes County School District                                               19804     3064      983 sd12_FL.txt 15NOV2013 
+12 00930 Indian River County School District                                        140567    19448     3979 sd12_FL.txt 15NOV2013 
+12 00960 Jackson County School District                                              48968     6979     1768 sd12_FL.txt 15NOV2013 
+12 00990 Jefferson County School District                                            14256     1867      550 sd12_FL.txt 15NOV2013 
+12 01020 Lafayette County School District                                             8804     1318      367 sd12_FL.txt 15NOV2013 
+12 01050 Lake County School District                                                303186    45839    10297 sd12_FL.txt 15NOV2013 
+12 01080 Lee County School District                                                 645293    90999    22307 sd12_FL.txt 15NOV2013 
+12 01110 Leon County School District                                                283769    38138     7401 sd12_FL.txt 15NOV2013 
+12 01140 Levy County School District                                                 40025     6082     2014 sd12_FL.txt 15NOV2013 
+12 01170 Liberty County School District                                               8276     1308      360 sd12_FL.txt 15NOV2013 
+12 01200 Madison County School District                                              18907     2844      930 sd12_FL.txt 15NOV2013 
+12 01230 Manatee County School District                                             333895    49255    10363 sd12_FL.txt 15NOV2013 
+12 01260 Marion County School District                                              335125    46588    14172 sd12_FL.txt 15NOV2013 
+12 01290 Martin County School District                                              148817    19533     4080 sd12_FL.txt 15NOV2013 
+12 01320 Monroe County School District                                               74809     7843     1562 sd12_FL.txt 15NOV2013 
+12 01350 Nassau County School District                                               74629    11883     1965 sd12_FL.txt 15NOV2013 
+12 01380 Okaloosa County School District                                            190083    29532     5481 sd12_FL.txt 15NOV2013 
+12 01410 Okeechobee County School District                                           39467     6805     2242 sd12_FL.txt 15NOV2013 
+12 01440 Orange County School District                                             1202234   202058    52198 sd12_FL.txt 15NOV2013 
+12 01470 Osceola County School District                                             287416    54731    14118 sd12_FL.txt 15NOV2013 
+12 01500 Palm Beach County School District                                         1356545   202243    41374 sd12_FL.txt 15NOV2013 
+12 01530 Pasco County School District                                               470391    72396    13029 sd12_FL.txt 15NOV2013 
+12 01560 Pinellas County School District                                            921319   117817    22567 sd12_FL.txt 15NOV2013 
+12 01590 Polk County School District                                                616158   103892    26816 sd12_FL.txt 15NOV2013 
+12 01620 Putnam County School District                                               73263    11732     4658 sd12_FL.txt 15NOV2013 
+12 01650 Santa Rosa County School District                                          158512    27193     4322 sd12_FL.txt 15NOV2013 
+12 01680 Sarasota County School District                                            386147    44767     8595 sd12_FL.txt 15NOV2013 
+12 01710 Seminole County School District                                            430838    72084    11057 sd12_FL.txt 15NOV2013 
+12 01740 St. Johns County School District                                           202188    35034     3580 sd12_FL.txt 15NOV2013 
+12 01770 St. Lucie County School District                                           283866    45525    11708 sd12_FL.txt 15NOV2013 
+12 01800 Sumter County School District                                              101620     6176     1958 sd12_FL.txt 15NOV2013 
+12 01830 Suwannee County School District                                             43656     6907     2603 sd12_FL.txt 15NOV2013 
+12 01860 Taylor County School District                                               22744     3047      942 sd12_FL.txt 15NOV2013 
+12 01890 Union County School District                                                15212     2120      500 sd12_FL.txt 15NOV2013 
+12 01920 Volusia County School District                                             496950    67519    19435 sd12_FL.txt 15NOV2013 
+12 01950 Wakulla County School District                                              30818     5009     1034 sd12_FL.txt 15NOV2013 
+12 01980 Walton County School District                                               57582     8359     2181 sd12_FL.txt 15NOV2013 
+12 02010 Washington County School District                                           24892     3838     1155 sd12_FL.txt 15NOV2013 

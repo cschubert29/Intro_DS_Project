@@ -1,0 +1,67 @@
+12 00030 ALACHUA COUNTY SCHOOL DISTRICT                                      223709    30456     5851 sd05_FL.txt 19DEC2007 
+12 00060 BAKER COUNTY SCHOOL DISTRICT                                         24549     4423      804 sd05_FL.txt 19DEC2007 
+12 00090 BAY COUNTY SCHOOL DISTRICT                                          161322    26569     4909 sd05_FL.txt 19DEC2007 
+12 00120 BRADFORD COUNTY SCHOOL DISTRICT                                      28041     4087      836 sd05_FL.txt 19DEC2007 
+12 00150 BREVARD COUNTY SCHOOL DISTRICT                                      528640    81636    10192 sd05_FL.txt 19DEC2007 
+12 00180 BROWARD COUNTY SCHOOL DISTRICT                                     1782016   309388    41975 sd05_FL.txt 19DEC2007 
+12 00210 CALHOUN COUNTY SCHOOL DISTRICT                                       13315     2074      520 sd05_FL.txt 19DEC2007 
+12 00240 CHARLOTTE COUNTY SCHOOL DISTRICT                                    154340    18213     2562 sd05_FL.txt 19DEC2007 
+12 00270 CITRUS COUNTY SCHOOL DISTRICT                                       134054    16884     3481 sd05_FL.txt 19DEC2007 
+12 00300 CLAY COUNTY SCHOOL DISTRICT                                         170609    31395     3152 sd05_FL.txt 19DEC2007 
+12 00330 COLLIER COUNTY SCHOOL DISTRICT                                      307864    43312     5981 sd05_FL.txt 19DEC2007 
+12 00360 COLUMBIA COUNTY SCHOOL DISTRICT                                      64059    10874     2598 sd05_FL.txt 19DEC2007 
+12 00390 DADE COUNTY SCHOOL DISTRICT                                        2377725   410366    88751 sd05_FL.txt 19DEC2007 
+12 00420 DESOTO COUNTY SCHOOL DISTRICT                                        35060     5434     1594 sd05_FL.txt 19DEC2007 
+12 00450 DIXIE COUNTY SCHOOL DISTRICT                                         14630     2172      682 sd05_FL.txt 19DEC2007 
+12 00480 DUVAL COUNTY SCHOOL DISTRICT                                        826791   153059    22609 sd05_FL.txt 19DEC2007 
+12 00510 ESCAMBIA COUNTY SCHOOL DISTRICT                                     295624    48556    10595 sd05_FL.txt 19DEC2007 
+12 00540 FLAGLER COUNTY SCHOOL DISTRICT                                       76045     9852     1379 sd05_FL.txt 19DEC2007 
+12 00570 FRANKLIN COUNTY SCHOOL DISTRICT                                      10167     1486      365 sd05_FL.txt 19DEC2007 
+12 00600 GADSDEN COUNTY SCHOOL DISTRICT                                       46207     8110     2062 sd05_FL.txt 19DEC2007 
+12 00630 GILCHRIST COUNTY SCHOOL DISTRICT                                     16480     2702      552 sd05_FL.txt 19DEC2007 
+12 00660 GLADES COUNTY SCHOOL DISTRICT                                        11265     1715      321 sd05_FL.txt 19DEC2007 
+12 00690 GULF COUNTY SCHOOL DISTRICT                                          13970     2037      440 sd05_FL.txt 19DEC2007 
+12 00720 HAMILTON COUNTY SCHOOL DISTRICT                                      13938     2173      662 sd05_FL.txt 19DEC2007 
+12 00750 HARDEE COUNTY SCHOOL DISTRICT                                        28274     5227     1669 sd05_FL.txt 19DEC2007 
+12 00780 HENDRY COUNTY SCHOOL DISTRICT                                        39585     8089     2247 sd05_FL.txt 19DEC2007 
+12 00810 HERNANDO COUNTY SCHOOL DISTRICT                                     158135    22158     3942 sd05_FL.txt 19DEC2007 
+12 00840 HIGHLANDS COUNTY SCHOOL DISTRICT                                     95687    13099     3577 sd05_FL.txt 19DEC2007 
+12 00870 HILLSBOROUGH COUNTY SCHOOL DISTRICT                                1131542   201354    33317 sd05_FL.txt 19DEC2007 
+12 00900 HOLMES COUNTY SCHOOL DISTRICT                                        19095     2985      890 sd05_FL.txt 19DEC2007 
+12 00930 INDIAN RIVER COUNTY SCHOOL DISTRICT                                 127357    17387     2786 sd05_FL.txt 19DEC2007 
+12 00960 JACKSON COUNTY SCHOOL DISTRICT                                       48825     7373     1635 sd05_FL.txt 19DEC2007 
+12 00990 JEFFERSON COUNTY SCHOOL DISTRICT                                     14458     2044      453 sd05_FL.txt 19DEC2007 
+12 01020 LAFAYETTE COUNTY SCHOOL DISTRICT                                      7919     1081      322 sd05_FL.txt 19DEC2007 
+12 01050 LAKE COUNTY SCHOOL DISTRICT                                         276822    38941     5994 sd05_FL.txt 19DEC2007 
+12 01080 LEE COUNTY SCHOOL DISTRICT                                          544196    78022    10672 sd05_FL.txt 19DEC2007 
+12 01110 LEON COUNTY SCHOOL DISTRICT                                         244220    35981     5771 sd05_FL.txt 19DEC2007 
+12 01140 LEVY COUNTY SCHOOL DISTRICT                                          38031     6220     1743 sd05_FL.txt 19DEC2007 
+12 01170 LIBERTY COUNTY SCHOOL DISTRICT                                        7727     1114      271 sd05_FL.txt 19DEC2007 
+12 01200 MADISON COUNTY SCHOOL DISTRICT                                       18981     3288      912 sd05_FL.txt 19DEC2007 
+12 01230 MANATEE COUNTY SCHOOL DISTRICT                                      306254    46065     6475 sd05_FL.txt 19DEC2007 
+12 01260 MARION COUNTY SCHOOL DISTRICT                                       303448    45152     9398 sd05_FL.txt 19DEC2007 
+12 01290 MARTIN COUNTY SCHOOL DISTRICT                                       139282    18895     2456 sd05_FL.txt 19DEC2007 
+12 01320 MONROE COUNTY SCHOOL DISTRICT                                        76140     8997     1243 sd05_FL.txt 19DEC2007 
+12 01350 NASSAU COUNTY SCHOOL DISTRICT                                        64668    10885     1270 sd05_FL.txt 19DEC2007 
+12 01380 OKALOOSA COUNTY SCHOOL DISTRICT                                     181221    31013     4337 sd05_FL.txt 19DEC2007 
+12 01410 OKEECHOBEE COUNTY SCHOOL DISTRICT                                    39722     6789     1554 sd05_FL.txt 19DEC2007 
+12 01440 ORANGE COUNTY SCHOOL DISTRICT                                      1021884   181387    30169 sd05_FL.txt 19DEC2007 
+12 01470 OSCEOLA COUNTY SCHOOL DISTRICT                                      231482    42273     7936 sd05_FL.txt 19DEC2007 
+12 01500 PALM BEACH COUNTY SCHOOL DISTRICT                                  1264956   194484    28352 sd05_FL.txt 19DEC2007 
+12 01530 PASCO COUNTY SCHOOL DISTRICT                                        430053    64621     9269 sd05_FL.txt 19DEC2007 
+12 01560 PINELLAS COUNTY SCHOOL DISTRICT                                     926810   131901    20126 sd05_FL.txt 19DEC2007 
+12 01590 POLK COUNTY SCHOOL DISTRICT                                         541910    93181    17207 sd05_FL.txt 19DEC2007 
+12 01620 PUTNAM COUNTY SCHOOL DISTRICT                                        73343    12747     3868 sd05_FL.txt 19DEC2007 
+12 01650 SANTA ROSA COUNTY SCHOOL DISTRICT                                   142442    25084     2993 sd05_FL.txt 19DEC2007 
+12 01680 SARASOTA COUNTY SCHOOL DISTRICT                                     365117    43789     5385 sd05_FL.txt 19DEC2007 
+12 01710 SEMINOLE COUNTY SCHOOL DISTRICT                                     401291    70919     6779 sd05_FL.txt 19DEC2007 
+12 01740 ST. JOHNS COUNTY SCHOOL DISTRICT                                    161211    25405     2020 sd05_FL.txt 19DEC2007 
+12 01770 ST. LUCIE COUNTY SCHOOL DISTRICT                                    239970    38318     7195 sd05_FL.txt 19DEC2007 
+12 01800 SUMTER COUNTY SCHOOL DISTRICT                                        63908     7468     1823 sd05_FL.txt 19DEC2007 
+12 01830 SUWANNEE COUNTY SCHOOL DISTRICT                                      38583     6236     1475 sd05_FL.txt 19DEC2007 
+12 01860 TAYLOR COUNTY SCHOOL DISTRICT                                        19623     3249      777 sd05_FL.txt 19DEC2007 
+12 01890 UNION COUNTY SCHOOL DISTRICT                                         14862     1995      400 sd05_FL.txt 19DEC2007 
+12 01920 VOLUSIA COUNTY SCHOOL DISTRICT                                      487875    71151     9803 sd05_FL.txt 19DEC2007 
+12 01950 WAKULLA COUNTY SCHOOL DISTRICT                                       28227     4613      693 sd05_FL.txt 19DEC2007 
+12 01980 WALTON COUNTY SCHOOL DISTRICT                                        50403     7653     1509 sd05_FL.txt 19DEC2007 
+12 02010 WASHINGTON COUNTY SCHOOL DISTRICT                                    22232     3659      844 sd05_FL.txt 19DEC2007 
