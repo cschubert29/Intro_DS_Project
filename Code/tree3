@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="TCURSSVC <= 2.812\nmse = 1.97\nsamples = 762\nvalue = 2.569"] ;
+1 [label="TLOCREV <= 1.965\nmse = 2.237\nsamples = 375\nvalue = 3.13"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="TCURONON <= 0.35\nmse = 0.883\nsamples = 95\nvalue = 2.155"] ;
+1 -> 2 ;
+3 [label="mse = 0.977\nsamples = 16\nvalue = 3.011"] ;
+2 -> 3 ;
+4 [label="mse = 0.686\nsamples = 79\nvalue = 1.982"] ;
+2 -> 4 ;
+5 [label="TCURSSVC <= 2.262\nmse = 2.265\nsamples = 280\nvalue = 3.461"] ;
+1 -> 5 ;
+6 [label="mse = 2.657\nsamples = 95\nvalue = 4.039"] ;
+5 -> 6 ;
+7 [label="mse = 1.804\nsamples = 185\nvalue = 3.164"] ;
+5 -> 7 ;
+8 [label="TLOCREV <= 2.283\nmse = 1.109\nsamples = 387\nvalue = 2.025"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="TCURINST <= 4.324\nmse = 0.551\nsamples = 82\nvalue = 1.266"] ;
+8 -> 9 ;
+10 [label="mse = 0.944\nsamples = 17\nvalue = 2.062"] ;
+9 -> 10 ;
+11 [label="mse = 0.239\nsamples = 65\nvalue = 1.057"] ;
+9 -> 11 ;
+12 [label="TCAPOUT <= 0.746\nmse = 1.063\nsamples = 305\nvalue = 2.229"] ;
+8 -> 12 ;
+13 [label="mse = 0.787\nsamples = 133\nvalue = 1.852"] ;
+12 -> 13 ;
+14 [label="mse = 1.081\nsamples = 172\nvalue = 2.521"] ;
+12 -> 14 ;
+}
