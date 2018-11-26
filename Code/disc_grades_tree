@@ -1,0 +1,28 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="CRIME RATE <= 1.518\nmse = 1.399\nsamples = 279\nvalue = 9.777"] ;
+1 [label="Grade <= 1.5\nmse = 0.985\nsamples = 107\nvalue = 9.502"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="CRIME RATE <= 1.039\nmse = 1.531\nsamples = 29\nvalue = 9.871"] ;
+1 -> 2 ;
+3 [label="mse = 1.875\nsamples = 15\nvalue = 10.108"] ;
+2 -> 3 ;
+4 [label="mse = 1.038\nsamples = 14\nvalue = 9.618"] ;
+2 -> 4 ;
+5 [label="CRIME RATE <= 0.859\nmse = 0.713\nsamples = 78\nvalue = 9.364"] ;
+1 -> 5 ;
+6 [label="mse = 0.93\nsamples = 23\nvalue = 9.618"] ;
+5 -> 6 ;
+7 [label="mse = 0.584\nsamples = 55\nvalue = 9.258"] ;
+5 -> 7 ;
+8 [label="CRIME RATE <= 3.824\nmse = 1.58\nsamples = 172\nvalue = 9.948"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="Grade <= 1.5\nmse = 1.618\nsamples = 160\nvalue = 10.007"] ;
+8 -> 9 ;
+10 [label="mse = 2.103\nsamples = 49\nvalue = 10.415"] ;
+9 -> 10 ;
+11 [label="mse = 1.298\nsamples = 111\nvalue = 9.826"] ;
+9 -> 11 ;
+12 [label="mse = 0.416\nsamples = 12\nvalue = 9.169"] ;
+8 -> 12 ;
+}
